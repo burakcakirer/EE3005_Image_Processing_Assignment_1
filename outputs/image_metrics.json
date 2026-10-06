@@ -1,0 +1,58 @@
+{
+  "Original": {
+    "Min": 0,
+    "Max": 212,
+    "Mean": 96.247,
+    "StdDev": 48.646,
+    "Entropy_bits": 7.45
+  },
+  "Brightness +50": {
+    "Min": 50,
+    "Max": 255,
+    "Mean": 146.247,
+    "StdDev": 48.645,
+    "Entropy_bits": 7.4492
+  },
+  "Brightness -50": {
+    "Min": 0,
+    "Max": 162,
+    "Mean": 50.39,
+    "StdDev": 42.759,
+    "Entropy_bits": 6.6079
+  },
+  "Contrast x1.5": {
+    "Min": 0,
+    "Max": 255,
+    "Mean": 142.605,
+    "StdDev": 70.358,
+    "Entropy_bits": 6.9868
+  },
+  "Contrast x0.6": {
+    "Min": 0,
+    "Max": 127,
+    "Mean": 57.349,
+    "StdDev": 29.188,
+    "Entropy_bits": 6.6502
+  },
+  "Negative": {
+    "Min": 43,
+    "Max": 255,
+    "Mean": 158.753,
+    "StdDev": 48.646,
+    "Entropy_bits": 7.45
+  },
+  "Point enhancement": {
+    "Min": 15,
+    "Max": 255,
+    "Mean": 134.89,
+    "StdDev": 60.718,
+    "Entropy_bits": 7.4168
+  },
+  "Histogram equalization": {
+    "Min": 0,
+    "Max": 255,
+    "Mean": 128.346,
+    "StdDev": 73.477,
+    "Entropy_bits": 7.3581
+  }
+}

@@ -1,0 +1,23 @@
+Field,Value
+PatientName,DeepResolve_Altea1
+PatientID,2021.01.13-10:04:24-STD-1.3.12.2.1107.5.99.3
+PatientBirthDate,19860706
+PatientSex,F
+PatientAge,034Y
+Modality,MR
+Manufacturer,Siemens Healthineers
+ManufacturerModelName,MAGNETOM Altea
+StudyDate,20210113
+SeriesDate,20210411
+SeriesDescription,Exported MR Basic Reading
+SliceThickness_mm,2.5
+RepetitionTime_ms,4460
+EchoTime_ms,52
+MagneticFieldStrength_T,1.5
+FlipAngle_deg,150
+PhotometricInterpretation,MONOCHROME2
+Rows,512
+Columns,512
+BitsAllocated,16
+WindowCenter,229.0
+WindowWidth,533.0

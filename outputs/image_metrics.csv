@@ -1,0 +1,9 @@
+Image,Min,Max,Mean,StdDev,Entropy_bits
+Original,0,212,96.247,48.646,7.45
+Brightness +50,50,255,146.247,48.645,7.4492
+Brightness -50,0,162,50.39,42.759,6.6079
+Contrast x1.5,0,255,142.605,70.358,6.9868
+Contrast x0.6,0,127,57.349,29.188,6.6502
+Negative,43,255,158.753,48.646,7.45
+Point enhancement,15,255,134.89,60.718,7.4168
+Histogram equalization,0,255,128.346,73.477,7.3581
